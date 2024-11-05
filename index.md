@@ -8,7 +8,8 @@ title: "Page d'Accueil"
 </div>
 
 <div class="content">
-  <h1>Welcome to "optical control of brain functioning with optogenetics and wavefront engineering"</h1>
+  <h1>Welcome to the CNRS Formation Entreprise training course</h1>
+  <h1>"optical control of brain functioning with optogenetics and wavefront engineering"</h1>
   <h2>This school will be held at Institut de la Vision, 17 rue Moreau, 75012 Paris</h2>
   <h2>From Monday 10 to Wednesday 19 March 2025</h2>
   <p>The official website is currently down and will be back online shortly.</p> 
