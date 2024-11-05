@@ -17,5 +17,5 @@ title: "Page d'Accueil"
   <p>In the meantime, you can register by emailing the organizing committee directly.</p>
   <p>The registration fee is 2700&euro;.</p>
   <a href="assets/program_2025_F.pdf" class="download-link">Program of the school</a>
-  <p><b>organizers : <a href="mailto:valentina.emiliani@inserm.fr">Valentina Emiliani</a> and <a href="mailto:Eirini.papagiakoumou@inserm.fr">Eirini Papagiakoumou</a></b><br>  </p>
+  <p><b>Organizers : <a href="mailto:valentina.emiliani@inserm.fr">Valentina Emiliani</a> and <a href="mailto:Eirini.papagiakoumou@inserm.fr">Eirini Papagiakoumou</a></b><br>  </p>
 </div>
