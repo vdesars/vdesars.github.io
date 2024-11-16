@@ -14,7 +14,7 @@ title: "Page d'Accueil"
   <h2>From Monday 10 to Wednesday 19 March 2025</h2>
   <p>You can Register using the link below :</p>
   <a href="https://cnrsformation.cnrs.fr/optical-control-of-brain-functioning-with-optogenetics-and-wave-front-shaping?mc=Emiliani">https://cnrsformation.cnrs.fr/optical-control-of-brain-functioning-with-optogenetics-and-wave-front-shaping?mc=Emiliani</a>
-  <p>The price is €2,700, which includes meals and participation to the school.</p>
+  <p>The price is €2700 which includes meals and participation to the school.</p>
   <p>Please note that housing and travel are not included.</p>
   <a href="assets/program_2025_F.pdf" class="download-link">Program of the school</a>
   <p><b>Organizers : <a href="mailto:valentina.emiliani@inserm.fr">Valentina Emiliani</a> and <a href="mailto:Eirini.papagiakoumou@inserm.fr">Eirini Papagiakoumou</a></b><br>  </p>
